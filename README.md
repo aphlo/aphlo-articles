@@ -2,7 +2,7 @@
 
 **一度書けば、どこでも投稿** - Zenn、Qiita、Dev.to への自動記事投稿システム
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Actions](https://github.com/pipipi-dev/pipipi-dev-articles/workflows/Multi%20Platform%20Publisher/badge.svg)](https://github.com/aphlo/aphlo-articles/actions) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **English Version**: [README_en.md](README_en.md)
 

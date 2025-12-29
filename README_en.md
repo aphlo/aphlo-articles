@@ -2,7 +2,7 @@
 
 **Write once, publish everywhere** - Automated article publishing to Zenn, Qiita, and Dev.to from a single repository.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Actions](https://github.com/pipipi-dev/pipipi-dev-articles/workflows/Multi%20Platform%20Publisher/badge.svg)](https://github.com/aphlo/aphlo-articles/actions) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **日本語版**: [README.md](README.md)
 
