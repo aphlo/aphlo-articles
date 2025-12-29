@@ -3,7 +3,7 @@ title: "FlutterアプリのOSSライセンス表記について"
 emoji: "🐻‍❄️"
 type: "tech"
 topics: ["flutter", "oss", "license"]
-published: false
+published: true
 platforms:
   qiita: true
   devto: false
