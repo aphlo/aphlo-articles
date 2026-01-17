@@ -1,15 +1,15 @@
 ---
 title: "【Flutter】ストアのレビューを増やすためにIn-App ReviewとKoeLoopを組み合わせた個人的最適解"
-emoji: "🔄"
+emoji: "🐻‍❄️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["flutter", "dart", "個人開発", "ui", "ux"]
-published: false
+published: true
 ---
 
 個人開発している育児記録アプリ「**[milu](https://babymom-diary.web.app//)**」で、ユーザレビューとフィードバック収集のフローを改善しました。
 きっかけは、以前Xで見かけたこちらのポストです。
 
-https://x.com/Nyantaro_Kagura/status/1753329768801075408?s=20
+https://x.com/Nyantaro_Kagura/status/2003329768801075408?s=20
 
 このポストで紹介されていた**「満足しているユーザにはストアレビューを促し、不満があるユーザには意見箱（フィードバックフォーム）へ案内する」**というアプローチが非常に合理的だと感じ、自分のアプリにも取り入れてみました。
 
@@ -147,14 +147,9 @@ KoeLoopは埋め込みやすく、シンプルなUIで意見を集められる�
 育児記録アプリですが、デザインや使い勝手にはかなりこだわって作っています。
 Flutterエンジニアの方も、ぜひ触ってみて感想をいただけると嬉しいです！
 
-<div style="display:flex; gap:10px;">
-  <a href="https://apps.apple.com/jp/app/%E8%82%B2%E5%85%90%E8%A8%98%E9%8C%B2-%E4%BA%88%E9%98%B2%E6%8E%A5%E7%A8%AE%E7%AE%A1%E7%90%86-milu/id6754955821?l=en-US">
-    <img src="/images/app_store/Download_on_the_App_Store_Badge_JP_RGB_blk_100317.svg" width="135" alt="Download on the App Store">
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.aphlo.babymomdiary">
-    <img src="/images/app_store/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="150" alt="Get it on Google Play">
-  </a>
-</div>
+[iOS版をダウンロード](https://apps.apple.com/jp/app/%E8%82%B2%E5%85%90%E8%A8%98%E9%8C%B2-%E4%BA%88%E9%98%B2%E6%8E%A5%E7%A8%AE%E7%AE%A1%E7%90%86-milu/id6754955821?l=en-US)
+
+[Android版をダウンロード](https://play.google.com/store/apps/details?id=com.aphlo.babymomdiary)
 
 ---
 
